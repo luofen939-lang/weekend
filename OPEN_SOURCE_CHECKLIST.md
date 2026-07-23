@@ -25,7 +25,7 @@
 
 ## 发布前仍需人工确认
 
-- [ ] 选择项目级许可证并添加根目录 `LICENSE`
+- [x] 选择项目级许可证并添加根目录 `LICENSE`（MIT）
 - [ ] 确认插画、字体、图标、照片和品牌名称拥有公开分发权
 - [ ] 运行 `npm run security:scan`
 - [ ] 运行 `npm run lint`、`npm run test` 和 `npm run build:web`

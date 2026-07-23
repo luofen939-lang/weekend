@@ -2,6 +2,7 @@
   "name": "lazyde",
   "version": "0.1.0",
   "private": true,
+  "license": "MIT",
   "description": "懒得动 Web / iOS / Android 多端初版项目",
   "scripts": {
     "dev:client": "npm --prefix apps/client run start",
