@@ -1,0 +1,36 @@
+# Dependencies and builds
+node_modules/
+dist/
+build/
+coverage/
+.expo/
+.next/
+*.tsbuildinfo
+
+# Local configuration and secrets
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.p12
+*.pfx
+
+# Runtime files
+*.log
+*.pid
+.tools/
+.sites-deploy/
+.miaoda-fullstack/
+uploads/
+apps/api/uploads/
+apps/api/certs/
+
+# Local deployment metadata
+.openai/hosting.json
+.wrangler/
+
+# Editor and operating system files
+.DS_Store
+.idea/
+.vscode/
